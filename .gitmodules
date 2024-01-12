@@ -1,3 +1,4 @@
 [submodule "leetcode"]
-	path = leetcode
-	url = git@github.com:sthasam2/leetcode.git
+    path = leetcode
+    url = git@github.com:sthasam2/leetcode.git
+    branch = main
