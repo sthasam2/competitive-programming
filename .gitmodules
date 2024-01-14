@@ -2,3 +2,7 @@
     path = leetcode
     url = git@github.com:sthasam2/leetcode.git
     branch = main
+[submodule "advent-of-code"]
+	path = advent-of-code
+	url = git@github.com:sthasam2/advent-of-code.git
+	branch = main
